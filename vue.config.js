@@ -1,4 +1,12 @@
 module.exports = {
   lintOnSave: false,
-  runtimeCompiler: true
+  runtimeCompiler: true,
+
+  pwa: {
+    name: 'tomador-web',
+    workboxOptions: {
+      navigateFallback: '/index.html',
+      skipWaiting: true,
+    }
+  }
 }

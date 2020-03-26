@@ -9,6 +9,7 @@ import App from './App'
 import router from './router'
 import store from './store'
 import api from './services/api'
+import './registerServiceWorker'
 
 require('./defaultComponents');
 
