@@ -61,7 +61,7 @@
     "babel-jest": "^23.6.0",
     "growl": "^1.10.5",
     "https-proxy-agent": "^2.2.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.15",
     "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0",
