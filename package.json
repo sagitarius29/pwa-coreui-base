@@ -63,7 +63,7 @@
     "https-proxy-agent": "^2.2.1",
     "jquery": "^3.4.1",
     "lodash": "^4.17.15",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0",
     "vue-template-compiler": "^2.6.10",
     "vuetable-2": "^1.7.5"
